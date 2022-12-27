@@ -1,1 +1,2 @@
-print("hello word")
+new-text="hello word"
+print(new-text)
